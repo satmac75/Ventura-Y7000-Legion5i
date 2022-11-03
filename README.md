@@ -5,6 +5,6 @@
 # Must turn WiFi manually on
 # Bluetooth not working among many others
 # Audio is working
-# Caemera is working with facetime
+# Camera is working with facetime
 # I am not using it as my daily driver as it's still needs more testing
 # use at your own risk
